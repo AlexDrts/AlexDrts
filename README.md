@@ -10,7 +10,7 @@
 
 ---
 
-###   About me
+### 😈 About me
 
 - 💻 Fullstack developer: **React** on the front, **C# / ASP.NET Core** on the back
 - 🎓 Studying at **IT STEP Academy**
