@@ -31,6 +31,8 @@
 |---|---|---|
 | 🛍 [**NewBalanceStore**](https://github.com/AlexDrts/NewBalanceStore) · [Live](https://balancedevs.onrender.com/) | Fullstack e-commerce store: catalog, cart, JWT roles, admin dashboard | React 19 · ASP.NET Core · Docker · Cloudinary |
 | 🎬 [**MovieSearch**](https://github.com/AlexDrts/MovieSearch) · [Live](https://movie-search-react-chi.vercel.app/) | Movie search app with a 3-layer .NET Web API | React · .NET · Docker |
+| 👾 [**PacMan-CPP**](https://github.com/AlexDrts/PacMan-CPP) · [▶ Play](https://alexdrts.github.io/PacMan-CPP/) | Classic Pac-Man in C++, playable in the browser via WebAssembly | C++ · WebAssembly · GitHub Actions |
+| 🎬 [**movie-catalog-html**](https://github.com/AlexDrts/movie-catalog-html) · [Live](https://alexdrts.github.io/movie-catalog-html/) | Movie, TV series & anime catalog | HTML · CSS · JavaScript |
 
 ### 📊 GitHub stats
 
