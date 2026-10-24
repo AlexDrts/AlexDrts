@@ -43,13 +43,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDrts&theme=radical&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3" />
 </p>
 
-### 📫 Contacts
-
-<p align="center">
-  <!-- Replace the links below with your own, delete the ones you don't need -->
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-c2185b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,50:c2185b,100:2b0a3d&height=100&section=footer" width="100%" />
