@@ -34,6 +34,10 @@
 | 👾 [**PacMan-CPP**](https://github.com/AlexDrts/PacMan-CPP) · [▶ Play](https://alexdrts.github.io/PacMan-CPP/) | Classic Pac-Man in C++, playable in the browser via WebAssembly | C++ · WebAssembly · GitHub Actions |
 | 🎬 [**movie-catalog-html**](https://github.com/AlexDrts/movie-catalog-html) · [Live](https://alexdrts.github.io/movie-catalog-html/) | Movie, TV series & anime catalog | HTML · CSS · JavaScript |
 
+<p align="center">
+  <a href="https://alexdrts.github.io/PacMan-CPP/"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20Pac--Man-f9d71c?style=for-the-badge" /></a>
+</p>
+
 ### 📊 GitHub stats
 
 <p align="center">
