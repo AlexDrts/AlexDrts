@@ -20,7 +20,7 @@
 ### 🛠 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,vite,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,react,js,html,css,vite,python&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,visualstudio,vscode&theme=dark" />
 </p>
