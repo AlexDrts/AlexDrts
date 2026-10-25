@@ -57,6 +57,18 @@ It was built as a team project.
 
 </details>
 
+### 📚 Coursework
+
+Homework and practice from IT STEP Academy, one folder per assignment:
+
+<p align="center">
+  <a href="https://github.com/AlexDrts/cpp-course"><img src="https://img.shields.io/badge/C%2B%2B%20course-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+  <a href="https://github.com/AlexDrts/csharp-course"><img src="https://img.shields.io/badge/C%23%20course-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+  <a href="https://github.com/AlexDrts/react-course"><img src="https://img.shields.io/badge/React%20course-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://github.com/AlexDrts/javascript-course"><img src="https://img.shields.io/badge/JavaScript%20course-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://github.com/AlexDrts/python-course"><img src="https://img.shields.io/badge/Python%20course-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+</p>
+
 ### 📊 GitHub stats
 
 <p align="center">
@@ -65,7 +77,7 @@ It was built as a team project.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDrts&theme=radical&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3" />
+  <img src="https://streak-stats.demolab.com/?user=AlexDrts&theme=radical&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3" />
 </p>
 
 <!--
