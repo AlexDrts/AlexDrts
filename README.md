@@ -53,7 +53,7 @@
 
 NewBalanceStore is an independent, **non-commercial educational project** that recreates the shopping experience of an online sneaker store for learning and portfolio purposes. It is **not affiliated with, endorsed by, or associated with New Balance**. All trademarks and brand names belong to their respective owners. No real orders or payments are processed.
 
-It was built as a team project (original repository: [AlexElNX/NewBalanceStore](https://github.com/AlexElNX/NewBalanceStore)); this profile links to my fork.
+It was built as a team project.
 
 </details>
 
