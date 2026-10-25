@@ -20,7 +20,7 @@
 ### 🛠 Tech stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,react,js,html,css,vite,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,react,js,html,css,vite,python&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,visualstudio,vscode&theme=dark" />
 </p>
@@ -31,11 +31,13 @@
 |---|---|---|
 | 🛍 [**NewBalanceStore**](https://github.com/AlexDrts/NewBalanceStore) · [Live](https://balancedevs.onrender.com/) | Fullstack e-commerce store: catalog, cart, JWT roles, admin dashboard | React 19 · ASP.NET Core · Docker · Cloudinary |
 | 🎬 [**MovieSearch**](https://github.com/AlexDrts/MovieSearch) · [Live](https://movie-search-react-chi.vercel.app/) | Movie search app with a 3-layer .NET Web API | React · .NET · Docker |
-| 👾 [**PacMan-CPP**](https://github.com/AlexDrts/PacMan-CPP)
-| 🎬 [**movie-catalog-html**](https://github.com/AlexDrts/movie-catalog-html) · [Live](https://alexdrts.github.io/movie-catalog-html/) | Movie, TV series & anime catalog | HTML · CSS · JavaScript |
+| 🛒 [**TechMarket**](https://github.com/AlexDrts/techmarket) · [Live](https://alexdrts.github.io/techmarket/) | Online store demo: catalog, search, cart, checkout with validation | Vanilla JS · ES modules · REST API |
+| 👾 [**PacMan-CPP**](https://github.com/AlexDrts/PacMan-CPP) · [Play](https://alexdrts.github.io/PacMan-CPP/) | Console Pac-Man in C++, playable in the browser | C++ · WebAssembly |
+| 🍿 [**movie-catalog-html**](https://github.com/AlexDrts/movie-catalog-html) · [Live](https://alexdrts.github.io/movie-catalog-html/) | Movie, TV series & anime catalog, responsive | HTML · CSS · JavaScript |
 
 <p align="center">
   <a href="https://alexdrts.github.io/PacMan-CPP/"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20Pac--Man-f9d71c?style=for-the-badge" /></a>
+  <a href="https://alexdrts.github.io/techmarket/"><img src="https://img.shields.io/badge/%F0%9F%9B%92%20Open%20TechMarket-2563eb?style=for-the-badge" /></a>
 </p>
 
 ### 📊 GitHub stats
@@ -48,5 +50,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDrts&theme=radical&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3" />
 </p>
+
+<!--
+### 📫 Contacts  (uncomment and put your real links when you want them)
+<p align="center">
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-c2185b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,50:c2185b,100:2b0a3d&height=100&section=footer" width="100%" />
