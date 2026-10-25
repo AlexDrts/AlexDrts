@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://alexdrts.github.io/PacMan-CPP/"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20Pac--Man-f9d71c?style=for-the-badge" /></a>
-  <a href="https://alexdrts.github.io/techmarket/"><img src="https://img.shields.io/badge/%F0%9F%9B%92%20Open%20TechMarket-2563eb?style=for-the-badge" /></a>
+  <a href="https://balancedevs.onrender.com/"><img src="https://img.shields.io/badge/%F0%9F%9B%8D%20Open%20NewBalanceStore-2563eb?style=for-the-badge" /></a>
 </p>
 
 ### 📊 GitHub stats
