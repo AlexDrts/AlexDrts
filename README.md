@@ -80,6 +80,10 @@ Homework and practice from IT STEP Academy, one folder per assignment:
   <img src="https://streak-stats.demolab.com/?user=AlexDrts&theme=radical&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexDrts/AlexDrts/output/snake.svg" alt="Contribution snake" />
+</p>
+
 <!--
 ### 📫 Contacts  (uncomment and put your real links when you want them)
 <p align="center">
