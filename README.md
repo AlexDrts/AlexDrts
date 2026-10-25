@@ -36,10 +36,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🛍 [**NewBalanceStore**](https://github.com/AlexDrts/NewBalanceStore) 🎓 · [Live](https://balancedevs.onrender.com/) | Team project (4 devs), my fork: e-commerce store with catalog, cart, JWT roles, admin dashboard | React 19 · ASP.NET Core · Docker · Cloudinary |
-| 🎬 [**MovieSearch**](https://github.com/AlexDrts/MovieSearch) · [Live](https://movie-search-react-chi.vercel.app/) | Movie search app with a 3-layer .NET Web API | React · .NET · Docker |
-| 🛒 [**TechMarket**](https://github.com/AlexDrts/techmarket) · [Live](https://alexdrts.github.io/techmarket/) | Online store demo: catalog, search, cart, checkout with validation | Vanilla JS · ES modules · REST API |
 | 👾 [**PacMan-CPP**](https://github.com/AlexDrts/PacMan-CPP) · [Play](https://alexdrts.github.io/PacMan-CPP/) | Console Pac-Man in C++, playable in the browser | C++ · WebAssembly |
-| 🍿 [**movie-catalog-html**](https://github.com/AlexDrts/movie-catalog-html) · [Live](https://alexdrts.github.io/movie-catalog-html/) | Movie, TV series & anime catalog, responsive | HTML · CSS · JavaScript |
 
 <p align="center">
   <a href="https://alexdrts.github.io/PacMan-CPP/"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20Pac--Man-f9d71c?style=for-the-badge" /></a>
